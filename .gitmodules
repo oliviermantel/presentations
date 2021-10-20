@@ -1,0 +1,6 @@
+[submodule "nodejs-certificate-auth"]
+	path = nodejs-certificate-auth
+	url = https://github.com/oliviermantel/nodejs-certificate-auth.git
+[submodule "practice-x3-nestjs"]
+	path = practice-x3-nestjs
+	url = https://github.com/oliviermantel/practice-x3-nestjs.git
